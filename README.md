@@ -18,7 +18,7 @@ I'm passionate about building things — whether it's a website or a game. I'm c
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| [My Website]([https://github.com/sreyas-codes/my-website](https://sreyas-codes.github.io/website/)) | A personal website built to showcase my work | HTML, CSS, JavaScript |
+| [My Website](https://sreyas-codes.github.io/website/) | A personal website built to showcase my work | HTML, CSS, JavaScript |
 
 *(More coming soon)*
 
