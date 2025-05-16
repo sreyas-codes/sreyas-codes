@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sreyas
+# 👋 Hey, I'm Sreyas (https://instagram.com/itsme._sreyas/)
 
 ### 💻 Web & Game Development Enthusiast | Aspiring Software Engineer
 
