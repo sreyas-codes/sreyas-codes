@@ -19,7 +19,7 @@ I'm passionate about building things — whether it's a website or a game. I'm c
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | [My Website](https://sreyas-codes.github.io/website/) | A personal website built to showcase my work | HTML, CSS, JavaScript |
-| [Mobile "Buy Now" Page] (https://sreyas-codes.github.io/productpagetest/) | A "Buy Now" page for iQOO 13 phone | HTML, CSS |
+| [Mobile "Buy Now" Page](https://sreyas-codes.github.io/productpagetest/) | A "Buy Now" page for iQOO 13 phone | HTML, CSS |
 
 *(More coming soon)*
 
