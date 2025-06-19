@@ -2,14 +2,14 @@
 
 ### 💻 Web & Game Development Enthusiast | Aspiring Software Engineer
 
-I'm passionate about building things — whether it's a website or a game. I'm currently learning and improving my skills in web development and game programming using languages like C and C#.
+I'm passionate about building things — whether it's a website or a game. I'm currently learning and improving my skills in web development and game programming using languages like C++ and C#.
 
 ---
 
 ## 🧰 Tech Stack
 
 - 🌐 Web: HTML, CSS, JavaScript
-- 🐍 Programming: Python, C, C#
+- 🐍 Programming: Python, C++, C#
 - 🛠 Tools: Git, GitHub, VS Code
 
 ---
